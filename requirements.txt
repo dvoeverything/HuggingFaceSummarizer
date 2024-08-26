@@ -1,0 +1,3 @@
+transformers
+click
+tensorflow == 2.17.0
