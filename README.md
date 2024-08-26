@@ -15,7 +15,7 @@ This project extracts text from URLs or files and provides a concise summary usi
 ## Installation
 
 1. Clone the repository:
-   - `git clone https://github.com/dvoeverything/summarize.git`
+   - `git clone https://github.com/dvoeverything/HuggingFaceSummarizer.git`
    - `cd summarize`
 2. Install the required packages:
    - `pip install -r requirements.txt`
