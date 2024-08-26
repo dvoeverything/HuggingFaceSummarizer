@@ -15,19 +15,19 @@ This project extracts text from URLs or files and provides a concise summary usi
 ## Installation
 
 1. Clone the repository:
-   - <'git clone https://github.com/dvoeverything/summarize.git'>
-   - <'cd summarize'>
+   - `git clone https://github.com/dvoeverything/summarize.git`
+   - `cd summarize`
 2. Install the required packages:
-   - <'pip install -r requirements.txt'>
+   - `pip install -r requirements.txt`
 
 ## Usage
 
    To run the summarization tool, use the following command:
 
-   - <'python summarize.py --url <URL>'>
+   - `python summarize.py --url <URL>`
 or
 
-   - <'python summarize.py --file <FILE_PATH>'>
+   - `python summarize.py --file <FILE_PATH>`
 
 ## Requirements
 
