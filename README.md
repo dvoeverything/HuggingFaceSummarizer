@@ -17,28 +17,31 @@ This project extracts text from URLs or files and provides a concise summary usi
 1. Clone the repository:
    git clone https://github.com/dvoeverything/summarize.git
    cd summarize
-Install the required packages:
+2. Install the required packages:
+   '''bash 
+   pip install -r requirements.txt
 
-pip install -r requirements.txt
-
-Usage
-To run the summarization tool, use the following command:
-python summarize.py --url <URL>
+## Usage
+   To run the summarization tool, use the following command:
+   '''bash
+   python summarize.py --url <URL>
 or
-python summarize.py --file <FILE_PATH>
-Requirements
-Python 3.x
-Transformers library
-BeautifulSoup4
-Click
+'''bash
+   python summarize.py --file <FILE_PATH>
 
-##Contributing
-Feel free to submit issues or pull requests. Contributions are welcome!
+## Requirements
+   Python 3.x
+   Transformers library
+   BeautifulSoup4
+   Click
 
-License
-This project is licensed under the MIT License.
+## Contributing
+   Feel free to submit issues or pull requests. Contributions are welcome!
 
-Contact
-For more information, contact Devotion Chikutuva at LinkedIn.
+## License
+   This project is licensed under the MIT License.
+
+## Contact
+   For more information, contact Devotion Chikutuva at LinkedIn.
 
 Make sure to replace `<URL>` and `<FILE_PATH>` with actual examples, and adjust any sections as needed based on your project's specifics.
