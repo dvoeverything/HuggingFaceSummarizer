@@ -47,5 +47,3 @@ or
 ## Contact
 
    For more information, contact Devotion Chikutuva at LinkedIn.
-
-Make sure to replace `<URL>` and `<FILE_PATH>` with actual examples, and adjust any sections as needed based on your project's specifics.
